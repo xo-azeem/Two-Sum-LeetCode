@@ -1,4 +1,4 @@
-# Code
+// Code
 
 class Solution 
 {
