@@ -15,6 +15,5 @@ My Solution Analysis:
   
 ![image](https://github.com/xo-azeem/Two-Sum-LeetCode/assets/171427226/d96fbbdc-5b25-4f4f-bfc8-c57c9ba22677)
 
-Time Complexity: O(n^2).
-
+Time Complexity: O(n^2).</br>Space complexity: O(1).
 </div>
