@@ -12,7 +12,9 @@ Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
 
 My Solution Analysis: 
 <div align = "center">
-  ![image](https://github.com/xo-azeem/Two-Sum-LeetCode/assets/171427226/07f45797-1164-4d64-b1cd-98daf50938c3)
+  
+<div>
+![image](https://github.com/xo-azeem/Two-Sum-LeetCode/assets/171427226/d96fbbdc-5b25-4f4f-bfc8-c57c9ba22677)
 </div>
 
 Time Complexity: O(n^2).
